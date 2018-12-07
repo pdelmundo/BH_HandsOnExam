@@ -1,0 +1,11 @@
+D:\Projects\HandsOnExam\HandsOnExam\bin\Debug\netcoreapp2.0\HandsOnExam.deps.json
+D:\Projects\HandsOnExam\HandsOnExam\bin\Debug\netcoreapp2.0\HandsOnExam.runtimeconfig.json
+D:\Projects\HandsOnExam\HandsOnExam\bin\Debug\netcoreapp2.0\HandsOnExam.runtimeconfig.dev.json
+D:\Projects\HandsOnExam\HandsOnExam\bin\Debug\netcoreapp2.0\HandsOnExam.dll
+D:\Projects\HandsOnExam\HandsOnExam\bin\Debug\netcoreapp2.0\HandsOnExam.pdb
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.csprojResolveAssemblyReference.cache
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.csproj.CoreCompileInputs.cache
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.AssemblyInfoInputs.cache
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.AssemblyInfo.cs
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.dll
+D:\Projects\HandsOnExam\HandsOnExam\obj\Debug\netcoreapp2.0\HandsOnExam.pdb

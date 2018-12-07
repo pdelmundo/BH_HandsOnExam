@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandsOnExam", "HandsOnExam\HandsOnExam.csproj", "{2320ADF8-2C56-4BF2-BE83-B843CB139CDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2320ADF8-2C56-4BF2-BE83-B843CB139CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2320ADF8-2C56-4BF2-BE83-B843CB139CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2320ADF8-2C56-4BF2-BE83-B843CB139CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2320ADF8-2C56-4BF2-BE83-B843CB139CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72BBECCE-F037-4F84-8CD5-F7C2A3E040AC}
+	EndGlobalSection
+EndGlobal
