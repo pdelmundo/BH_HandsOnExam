@@ -7,7 +7,7 @@ namespace HandsOnExam
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-			Console.ReadLine("Rad Renzo error code");
+			Console.ReadLine("Rad Renzo asfas error code");
         }
     }
 }
