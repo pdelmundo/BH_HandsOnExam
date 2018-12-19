@@ -6,7 +6,7 @@ namespace HandsOnExam
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Zen!");
             Console.WriteLine("The quick brown fox jumps over the lazy dog");
         }
     }
